@@ -5,7 +5,7 @@
 #resume-entry(
   title: "Software Engineer Intern",
   location: "Paris, France",
-  date: "2024 - 2026",
+  date: "2023 - 2026",
   description: "UBIQUBE",
 )
 

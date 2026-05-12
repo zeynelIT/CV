@@ -13,7 +13,7 @@
     positions: (
       "Software Engineer",
       "Backend Engineer",
-      "Distributed Systems Engineer",
+      "Available from 01/09/2026"
     ),
   ),
   keywords: (
@@ -24,7 +24,7 @@
     "Infrastructure",
     "Developer Tooling",
   ),
-  description: "Zeynel Altun | Software Engineer | Backend Engineer | Distributed Systems",
+  description: "Zeynel Altun | Software Engineer | Backend Engineer | Distributed Systems | Available from 01/09/2026",
   profile-picture: image("assets/profile.png"),
   date: datetime.today().display(),
   language: "en",

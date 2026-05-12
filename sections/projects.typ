@@ -3,6 +3,19 @@
 = Projects
 
 #resume-entry(
+  title: "Chess Engine",
+  location: "C++20",
+  date: "Selected Project",
+  description: "Systems architecture and performance",
+)
+
+#resume-item[
+  - Engineered a modular C++20 chess engine with clean subsystem boundaries for board representation, move generation, search, evaluation, and UCI I/O, enabling high-performance evolution and maintainability.
+  - Implemented a production-grade search stack (alpha-beta, iterative deepening, quiescence, move ordering) with cache-friendly data structures, compact move encoding, and transposition tables to optimize throughput and scalability.
+  - Built a CMake-based build pipeline with GoogleTest, smoke tests, strict compiler warnings, and compile_commands.json for tooling, reinforcing correctness, diagnostics, and developer velocity.
+]
+
+#resume-entry(
   title: "Compiler for a Java-like Language",
   location: "Java",
   date: "Selected Project",
