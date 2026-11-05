@@ -6,7 +6,7 @@
   title: "ENSIMAG - Grenoble INP",
   location: "Grenoble, France",
   date: "2023 - 2026",
-  description: "Top French Engineering School in Computer Science",
+  description: "Master's-level Engineering Degree (Diplôme d'ingénieur) in Computer Science - Graduated 2026",
 )
 
 #resume-item[

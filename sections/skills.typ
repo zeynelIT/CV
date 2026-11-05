@@ -5,8 +5,8 @@
 #resume-skill-item(
   "Languages",
   (
+    strong("Java"),
     strong("TypeScript"),
-    "Java",
     "Python",
     "C",
     "C++",
@@ -18,14 +18,26 @@
   "Frameworks & Libraries",
   (
     strong("Spring Boot"),
-    "Node.js",
+    "Spring Security",
     "React",
+    "Node.js",
   ),
 )
 #resume-skill-item(
-  "Backend & Distributed Systems",
+  "Testing",
+  (
+    "JUnit",
+    "Jest",
+    "GoogleTest",
+  ),
+)
+#resume-skill-item(
+  "Backend & Architecture",
   (
     "REST APIs",
+    "GraphQL",
+    "Apache Kafka",
+    "Avro",
     "Microservices",
     "API Integration",
     "Authentication",
@@ -36,15 +48,25 @@
   ),
 )
 #resume-skill-item(
-  "Cloud, DevOps & Infrastructure",
+  "Cloud & DevOps",
   (
     strong("Docker"),
     "Docker Compose",
     "CI/CD",
     "GitHub Actions",
-    "Git",
     "Nexus",
     "AWS",
+  ),
+)
+#resume-skill-item(
+  "Development Tools",
+  (
+    "Git",
+    "Maven",
+    "IntelliJ IDEA",
+    "VS Code",
+    "Jira",
+    "GitHub Copilot",
   ),
 )
 #resume-skill-item(
@@ -67,7 +89,7 @@
   "Spoken Languages",
   (
     "French (Native)",
-    "English (Professional)",
+    "English (Professional, TOEIC certified)",
     "Turkish (Native)",
   ),
 )

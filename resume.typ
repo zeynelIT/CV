@@ -11,20 +11,21 @@
     linkedin: "https://www.linkedin.com/in/zeynel-altun-950742375/",
     // address: "111 Example St. Example City, EX 11111",
     positions: (
-      "Software Engineer",
-      "Backend Engineer",
-      "Available from 01/09/2026"
+      "Java Software Engineer",
+      "Backend Engineer (Spring Boot)",
     ),
   ),
   keywords: (
-    "Software Engineering",
+    "Java",
+    "Spring Boot",
     "Backend",
-    "Distributed Systems",
+    "Kafka",
+    "GraphQL",
     "Microservices",
-    "Infrastructure",
-    "Developer Tooling",
+    "React",
+    "Finance",
   ),
-  description: "Zeynel Altun | Software Engineer | Backend Engineer | Distributed Systems | Available from 01/09/2026",
+  description: "Zeynel Altun | Java Software Engineer | Spring | Kafka | GraphQL | React | Finance",
   profile-picture: image("assets/profile.png"),
   date: datetime.today().display(),
   language: "en",
@@ -33,11 +34,13 @@
   colored-headers: true,
   show-footer: false,
   show-address-icon: true,
-  paper-size: "us-letter",
+  paper-size: "a4",
   contact-items-separator: box[#h(2pt)#text("|")#h(2pt)],
 )
 
 #include "sections/education.typ"
 #include "sections/experience.typ"
+#pagebreak(weak: true)
 #include "sections/skills.typ"
 #include "sections/projects.typ"
+#include "sections/interests.typ"

@@ -3,6 +3,18 @@
 = Projects
 
 #resume-entry(
+  title: "Climbing Training Tracker",
+  location: "React, Node.js, PostgreSQL",
+  date: "2024",
+  description: "Full-stack web application (solo project)",
+)
+
+#resume-item[
+  - Built a web app to log climbing sessions, visualize progress with graphs, and set goals and reminders.
+  - Secured it with Keycloak authentication, containerized it with Docker, and automated builds and tests with GitHub Actions.
+]
+
+#resume-entry(
   title: "Chess Engine",
   location: "C++20",
   date: "Selected Project",
